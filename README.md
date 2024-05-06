@@ -46,7 +46,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-aribaaleem5@gmail.com 
+Email: aribaaleem5@gmail.com 
 
 Task Link: https://github.com/AreebaAleem/Compiler-Construction
 
