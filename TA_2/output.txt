@@ -1,0 +1,34 @@
+Token: [Identifier] $
+Token: [Literal] variable
+Token: [Operator] =
+Token: [Literal] 10
+Token: [Punctuation] ;
+Token: 
+
+Token: [Keyword] if
+Token: [Punctuation] (
+Token: [Identifier] $
+Token: [Literal] variable
+Token: [Operator] =
+Token: [Operator] =
+Token: [Literal] 10
+Token: [Punctuation] )
+Token: [Punctuation] {
+Token: 
+
+Token: [Literal] echo
+Token: [Literal] Variable is 10
+Token: [Punctuation] ;
+Token: 
+
+Token: [Punctuation] }
+Token: [Literal] else
+Token: [Punctuation] {
+Token: 
+
+Token: [Literal] echo
+Token: [Literal] Variable is not 10
+Token: [Punctuation] ;
+Token: 
+
+Token: [Punctuation] }

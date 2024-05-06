@@ -1,0 +1,6 @@
+$variable = 10;
+if ($variable == 10) {
+    echo 'Variable is 10';
+} else {
+    echo 'Variable is not 10';
+}

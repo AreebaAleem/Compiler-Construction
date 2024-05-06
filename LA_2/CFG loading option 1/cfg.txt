@@ -1,0 +1,4 @@
+S->AB|Sd|a
+A->Ae|f|Sc
+B->g|Bg|@
+C->def|s|As|3ed

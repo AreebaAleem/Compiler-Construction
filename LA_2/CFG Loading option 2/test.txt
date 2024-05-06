@@ -1,0 +1,2 @@
+A=Aa|B|dB|i|ε
+B=gAd|iB|i
